@@ -1,0 +1,16 @@
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\obj\Debug\net5.0\LinkQ-tutorial.csproj.AssemblyReference.cache
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\obj\Debug\net5.0\LinkQ-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\obj\Debug\net5.0\LinkQ-tutorial.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\obj\Debug\net5.0\LinkQ-tutorial.AssemblyInfo.cs
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\obj\Debug\net5.0\LinkQ-tutorial.csproj.CoreCompileInputs.cache
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\bin\Debug\net5.0\LinkQ-tutorial.exe
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\bin\Debug\net5.0\LinkQ-tutorial.deps.json
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\bin\Debug\net5.0\LinkQ-tutorial.runtimeconfig.json
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\bin\Debug\net5.0\LinkQ-tutorial.runtimeconfig.dev.json
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\bin\Debug\net5.0\LinkQ-tutorial.dll
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\bin\Debug\net5.0\ref\LinkQ-tutorial.dll
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\bin\Debug\net5.0\LinkQ-tutorial.pdb
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\obj\Debug\net5.0\LinkQ-tutorial.dll
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\obj\Debug\net5.0\ref\LinkQ-tutorial.dll
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\obj\Debug\net5.0\LinkQ-tutorial.pdb
+C:\Users\newforce\workspace\Back-End\book-1\LinkQ-tutorial\obj\Debug\net5.0\LinkQ-tutorial.genruntimeconfig.cache
